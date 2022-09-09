@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeratClarisse
 - 👀 I’m interested in gaming, coding, music and all that I can learn
-- 🌱 I’m currently learning CyberSecurity and GameDev
+- 🌱 I’m currently learning Flutter and GameDev
 - 💞️ I’m looking to collaborate on fun and interesting projects
 
 <!---
